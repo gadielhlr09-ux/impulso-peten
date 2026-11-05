@@ -1,0 +1,12 @@
+{
+  "name": "Tablero General · Impulso Petén",
+  "short_name": "Impulso Petén",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#e67e22",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
